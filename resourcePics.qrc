@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>img/utDallasColors.png</file>
+        <file>img/CommetQImg.png</file>
+    </qresource>
+</RCC>

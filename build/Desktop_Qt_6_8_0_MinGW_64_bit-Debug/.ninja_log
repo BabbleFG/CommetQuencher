@@ -1,0 +1,24 @@
+# ninja log v6
+10	150	7511842675092824	CommetQuencger_autogen/timestamp	ddb610ef90b3f010
+97	153	7511807435154107	CommetQuencger_autogen/EWIEGA46WW/qrc_resource.cpp	5d04cb9b3f82698c
+10	150	7511842675092824	CommetQuencger_autogen/mocs_compilation.cpp	ddb610ef90b3f010
+160	210	7511807435329764	CMakeFiles/CommetQuencger.dir/CommetQuencger_autogen/EWIEGA46WW/qrc_resource.cpp.obj	fb5c2debe773438
+10	150	7511842675092824	C:/Users/babbl/OneDrive/Documents/CommetQuencger/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CommetQuencger_autogen/timestamp	ddb610ef90b3f010
+10	150	7511842675092824	C:/Users/babbl/OneDrive/Documents/CommetQuencger/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CommetQuencger_autogen/mocs_compilation.cpp	ddb610ef90b3f010
+562	2305	7511834453261548	CMakeFiles/CommetQuencger.dir/CommetQuencger_autogen/mocs_compilation.cpp.obj	7ef397a337d668aa
+151	1807	7511842676502145	CMakeFiles/CommetQuencger.dir/mainwindow.cpp.obj	ffed245a3ae17b2c
+1808	1967	7511842693063011	CommetQuencger.exe	71119d577879546e
+599	2538	7511820064360716	CMakeFiles/CommetQuencger.dir/main.cpp.obj	196c0bee46271263
+97	153	7511807435154107	C:/Users/babbl/OneDrive/Documents/CommetQuencger/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CommetQuencger_autogen/EWIEGA46WW/qrc_resource.cpp	5d04cb9b3f82698c
+5	560	7511817598148508	build.ninja	897f6b6bf987ec79
+109	184	7511814179245384	CommetQuencger_autogen/EWIEGA46WW/qrc_resourcePics.cpp	efcce86ecb0f24d3
+109	184	7511814179245384	C:/Users/babbl/OneDrive/Documents/CommetQuencger/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CommetQuencger_autogen/EWIEGA46WW/qrc_resourcePics.cpp	efcce86ecb0f24d3
+187	816	7511814179387661	CMakeFiles/CommetQuencger.dir/CommetQuencger_autogen/EWIEGA46WW/qrc_resourcePics.cpp.obj	e9e7c12644d33b1b
+154	1673	7511842676527273	CMakeFiles/CommetQuencger.dir/result.cpp.obj	4742c43b7c1fd95
+12	175	7511843664073936	CommetQuencger_autogen/timestamp	ddb610ef90b3f010
+12	175	7511843664073936	CommetQuencger_autogen/mocs_compilation.cpp	ddb610ef90b3f010
+12	175	7511843664073936	C:/Users/babbl/OneDrive/Documents/CommetQuencger/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CommetQuencger_autogen/timestamp	ddb610ef90b3f010
+12	175	7511843664073936	C:/Users/babbl/OneDrive/Documents/CommetQuencger/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CommetQuencger_autogen/mocs_compilation.cpp	ddb610ef90b3f010
+179	1596	7511843665737549	CMakeFiles/CommetQuencger.dir/result.cpp.obj	4742c43b7c1fd95
+176	1709	7511843665702451	CMakeFiles/CommetQuencger.dir/mainwindow.cpp.obj	ffed245a3ae17b2c
+1709	1869	7511843681041791	CommetQuencger.exe	71119d577879546e

@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>2117</width>
+    <height>1237</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QLabel" name="Middle_pic">
+    <property name="geometry">
+     <rect>
+      <x>800</x>
+      <y>230</y>
+      <width>421</width>
+      <height>421</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="impressioNeg">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>10</y>
+      <width>341</width>
+      <height>131</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Imprresion--</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="Backround_Pic">
+    <property name="geometry">
+     <rect>
+      <x>-50</x>
+      <y>-290</y>
+      <width>2111</width>
+      <height>1601</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="caffinatedNeg">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>290</y>
+      <width>341</width>
+      <height>131</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Caffinated--</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="mojitoNeg">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>430</y>
+      <width>341</width>
+      <height>131</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Mojito --</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="impressionPos">
+    <property name="geometry">
+     <rect>
+      <x>1560</x>
+      <y>20</y>
+      <width>341</width>
+      <height>131</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Impression++</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="engagementPos">
+    <property name="geometry">
+     <rect>
+      <x>1560</x>
+      <y>160</y>
+      <width>341</width>
+      <height>131</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Engagement++</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="caffinatedPos">
+    <property name="geometry">
+     <rect>
+      <x>1560</x>
+      <y>300</y>
+      <width>341</width>
+      <height>131</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Caffinated++</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="mojitoPos">
+    <property name="geometry">
+     <rect>
+      <x>1560</x>
+      <y>440</y>
+      <width>341</width>
+      <height>131</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Mojito++</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="engagementNeg">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>150</y>
+      <width>341</width>
+      <height>131</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Engagement--</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="finalResults">
+    <property name="geometry">
+     <rect>
+      <x>780</x>
+      <y>870</y>
+      <width>401</width>
+      <height>181</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Final Results!!!!</string>
+    </property>
+   </widget>
+   <zorder>Backround_Pic</zorder>
+   <zorder>Middle_pic</zorder>
+   <zorder>impressioNeg</zorder>
+   <zorder>caffinatedNeg</zorder>
+   <zorder>mojitoNeg</zorder>
+   <zorder>impressionPos</zorder>
+   <zorder>engagementPos</zorder>
+   <zorder>caffinatedPos</zorder>
+   <zorder>mojitoPos</zorder>
+   <zorder>engagementNeg</zorder>
+   <zorder>finalResults</zorder>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>2117</width>
+     <height>21</height>
+    </rect>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
