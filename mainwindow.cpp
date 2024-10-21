@@ -3,8 +3,13 @@
 #include <QPixmap>
 #include <iostream>
 #include "result.h"
+#include <QVBoxLayout>
+#include <QPushButton>
+#include <QLabel>
+#include <QWidget>
 using namespace std;
 MainWindow::MainWindow(QWidget *parent)
+
     : QMainWindow(parent)
     , ui(new Ui::MainWindow)
 {

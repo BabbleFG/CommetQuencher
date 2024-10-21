@@ -42,7 +42,7 @@ public:
     {
         if (MainWindow->objectName().isEmpty())
             MainWindow->setObjectName("MainWindow");
-        MainWindow->resize(2117, 1237);
+        MainWindow->resize(1930, 1210);
         centralwidget = new QWidget(MainWindow);
         centralwidget->setObjectName("centralwidget");
         Middle_pic = new QLabel(centralwidget);
@@ -95,7 +95,7 @@ public:
         MainWindow->setStatusBar(statusbar);
         menubar = new QMenuBar(MainWindow);
         menubar->setObjectName("menubar");
-        menubar->setGeometry(QRect(0, 0, 2117, 21));
+        menubar->setGeometry(QRect(0, 0, 1930, 21));
         MainWindow->setMenuBar(menubar);
 
         retranslateUi(MainWindow);

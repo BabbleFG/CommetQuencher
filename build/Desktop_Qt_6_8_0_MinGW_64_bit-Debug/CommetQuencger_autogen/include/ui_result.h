@@ -24,12 +24,13 @@ public:
         if (Result->objectName().isEmpty())
             Result->setObjectName("Result");
         Result->resize(1287, 667);
-        QSizePolicy sizePolicy(QSizePolicy::Policy::Minimum, QSizePolicy::Policy::Maximum);
+        QSizePolicy sizePolicy(QSizePolicy::Policy::Preferred, QSizePolicy::Policy::Preferred);
         sizePolicy.setHorizontalStretch(0);
         sizePolicy.setVerticalStretch(0);
         sizePolicy.setHeightForWidth(Result->sizePolicy().hasHeightForWidth());
         Result->setSizePolicy(sizePolicy);
         Result->setMaximumSize(QSize(16777215, 16777215));
+        Result->setCursor(QCursor(Qt::CursorShape::SplitVCursor));
         Result->setMouseTracking(false);
         Result->setAutoFillBackground(false);
         Result->setSizeGripEnabled(false);
